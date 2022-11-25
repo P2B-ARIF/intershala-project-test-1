@@ -1,0 +1,11 @@
+.hero_section{
+    background-image: url(./../../assets/image.png);
+    height: 80vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: linear-gradient();
+    display: flex;
+    align-items:flex-end;
+}
+
